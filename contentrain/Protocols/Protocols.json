@@ -9,5 +9,13 @@
       "Diet"
     ],
     "createdAt": 1689533546136
+  },
+  {
+    "ID": "cc354d9f-d145-412b-9b86-82448e93d347",
+    "title": "Omega 3 fatty acids for ADHD, depression, and general health",
+    "description": "<p>Some studies suggest that omega-3 supplements can improve inattention and other symptoms in kids with ADHD.</p>",
+    "link": "https://www.webmd.com/add-adhd/childhood-adhd/fish-oil-help-childhood-adhd",
+    "category": [],
+    "createdAt": 1689533653818
   }
 ]
